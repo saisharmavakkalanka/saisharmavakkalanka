@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saisharmavakkalanka
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning selenium java
+- 🌱 I’m currently learning selenium, core java
 - 💞️ I’m looking to collaborate on projects which help me in building my career
 - 📫 reach me on sai.bharadh@outlook.com
 
